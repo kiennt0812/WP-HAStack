@@ -1,0 +1,2 @@
+deb https://releases.galeracluster.com/galera-4/ubuntu focal main
+deb https://releases.galeracluster.com/mysql-wsrep-8.0/ubuntu focal main
